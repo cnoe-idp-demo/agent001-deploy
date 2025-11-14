@@ -2,7 +2,7 @@ agentName: agent001
 envName: dev
 agentRuntimeName: agent001_dev
 imageRepo: 229560443702.dkr.ecr.us-west-2.amazonaws.com
-tag: af6b4ea91d5da00eee9bbc6d039d40b98c1df443
+tag: b97bb6d853c8971eb483224679455e7659a31087
 roleArn: arn:aws:iam::229560443702:role/service-role/AmazonBedrockAgentCoreRuntimeDefaultServiceRole
 
 environmentVariables:
